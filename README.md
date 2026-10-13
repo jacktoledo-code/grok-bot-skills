@@ -7,6 +7,7 @@ Skills and bots I built with Grok Bot and use in real life, shared in a privacy-
 | Name | What it does | Link |
 | --- | --- | --- |
 | Cross-border household taxes | Organizes a two-country family tax year: drive folders, a document checklist, a foreign-account table for FBAR and Form 8938, accountant emails as drafts the human sends, and a review of the preparer's draft before filing. | [skills/cross-border-household-taxes](skills/cross-border-household-taxes/) |
+| Florida single-member LLC year | Keeps the yearly compliance calendar for a one-person Florida LLC: Sunbiz annual report, federal tax dates, 1099-NEC, conditional sales and local taxes, fictitious name renewal, and BOI status; the owner files, pays, and signs. | [skills/florida-smllc-year](skills/florida-smllc-year/) |
 
 ## How to use a skill
 
